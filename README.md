@@ -26,3 +26,13 @@ user5 -> xyz@pisem.net
 user1 -> xxx@ya.ru, foo@gmail.com, lol@mail.ru, ups@pisem.net, aaa@bbb.ru
 user3 -> xyz@pisem.net, vasya@pupkin.com
 ```
+**Сборка**
+
+mvn clean package
+
+**Запуск**
+
+java -jar target/backend-test-1.0.0.jar
+
+**Выход**
+q
