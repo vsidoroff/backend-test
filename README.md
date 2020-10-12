@@ -35,4 +35,5 @@ mvn clean package
 java -jar target/backend-test-1.0.0.jar
 
 **Выход**
+
 q
